@@ -18,7 +18,7 @@ E-commerce companies struggle to personalize marketing at scale. This analysis a
 - GitHub
 
 ## 👤 Author
-**Phanindra Gajula**
+**Phanindra Rao Gajula**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/phanindraraogajula)
 - 🔗 [Tableau Public](https://public.tableau.com/app/profile/phanindra.gajula)
 - 🔗 [GitHub](https://github.com/phanindraraogajula)
